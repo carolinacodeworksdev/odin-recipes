@@ -8,3 +8,6 @@ I will also utilize my new knowledge, of when, and how to commit, in order to ma
 
 I will check back after the project with any thoughts about the project.
 
+Now that I have completed the project, and can reflect on it, I enjoyed using the combined skills I learned.
+I found that I can easily build a very basic webpage, and link them together, adding links, and images, which are't hard once you're used to it.
+I enjoyed this project, and look forward to incorporating future lessons as I learn them.
